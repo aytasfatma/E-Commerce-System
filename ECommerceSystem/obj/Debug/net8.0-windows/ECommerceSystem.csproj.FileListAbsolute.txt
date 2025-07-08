@@ -1,0 +1,16 @@
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\bin\Debug\net8.0-windows\ECommerceSystem.exe
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\bin\Debug\net8.0-windows\ECommerceSystem.deps.json
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\bin\Debug\net8.0-windows\ECommerceSystem.runtimeconfig.json
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\bin\Debug\net8.0-windows\ECommerceSystem.dll
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\bin\Debug\net8.0-windows\ECommerceSystem.pdb
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.Form1.resources
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.csproj.GenerateResource.cache
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.AssemblyInfoInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.AssemblyInfo.cs
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.dll
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\refint\ECommerceSystem.dll
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.pdb
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ECommerceSystem.genruntimeconfig.cache
+C:\Users\fatma\OneDrive\Masaüstü\ETicaretSistemi\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0-windows\ref\ECommerceSystem.dll
